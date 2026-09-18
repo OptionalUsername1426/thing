@@ -5,5 +5,8 @@
 # page), and a copy goes up beside the exe on GitHub, where an out-of-date copy reads what it's about to
 # get. Lines starting with a single # are notes like this one and don't show.
 
+## 1.1 - 18 Sep 2026
+New: Testing the updater.
+
 ## 1.0 - 18 Sep 2026
 Released
