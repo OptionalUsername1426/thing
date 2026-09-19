@@ -5,6 +5,9 @@
 # page), and a copy goes up beside the exe on GitHub, where an out-of-date copy reads what it's about to
 # get. Lines starting with a single # are notes like this one and don't show.
 
+## 1.5.1 - 19 Sep 2026
+New: Overlay, on the new Tools page. Lays a window you pick (a browser, a video) over Roblox, see-through as much as you like, and the mouse goes straight through it so the macro keeps clicking in Roblox while you watch.
+
 ## 1.5 - 19 Sep 2026
 New: Auto Raid, on its own Raid page. Pick the raid and the act (or the first one not cleared), and it goes in through Play, Select Stage and Start, then repeats it or goes back to the lobby after a win.
 Fixed: Auto Fish only kept up while the fish was out in the open, when a window or an overlay was over part of the bar.
