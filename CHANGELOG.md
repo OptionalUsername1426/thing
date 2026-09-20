@@ -5,6 +5,10 @@
 # page), and a copy goes up beside the exe on GitHub, where an out-of-date copy reads what it's about to
 # get. Lines starting with a single # are notes like this one and don't show.
 
+## 1.5.2 - 20 Sep 2026
+Fixed: Being signed out after a few hours. A sign-in session doesn't last forever, and the app now quietly signs you in again when one runs out, with the farm carrying on.
+Fixed: "The sign-in server's answer didn't check out", on sign-in and while running. When the server is busy it sends a page of its own instead of an answer, which was taken for a refusal: now it waits a moment and asks again, up to three times.
+
 ## 1.5.1 - 19 Sep 2026
 New: Overlay, on the new Tools page. Lays a window you pick (a browser, a video) over Roblox, see-through as much as you like, and the mouse goes straight through it so the macro keeps clicking in Roblox while you watch.
 
